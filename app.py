@@ -32,7 +32,7 @@ def hello():
         </head>
         <body>
             <div class="center">
-                <button class="button" onclick="window.location.href='https://www.gry-online.pl/S043.asp?ID=11674285';">Kliknij mnie!</button>
+                <button class="button" onclick="window.location.href='http://sp-8.pl/index.php/na-luzie-mainmenu-291/kaway-o-informatykach-mainmenu-294';">Kliknij mnie!</button>
                 <p>___________________________________¶¶¶¶<br>
                 ________________________¶¶¶¶____¶¶¶¶11¶<br>
                 ________________________¶¶1¶¶_¶¶¶¶1111¶<br>
